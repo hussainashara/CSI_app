@@ -1,3 +1,6 @@
 # CSI_app
-This is an demo app for csi 
-This app is made by me by taking inspiration from dsc_ddu app,its only for practice purpose.
+It is an demo app for C.S.I,
+With the help of this app you can register for C.S.I events,Can view all our upcoming events and can give your feedbacks to us. 
+
+
+
